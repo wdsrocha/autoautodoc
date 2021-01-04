@@ -1,0 +1,15 @@
+{
+  "name": "autoautodoc",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsc main.ts && node -r dotenv/config main.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.2",
+    "typescript": "^4.1.3"
+  }
+}
