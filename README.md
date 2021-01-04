@@ -14,3 +14,5 @@ As tecnologias utilizadas são TypeScript e Puppeteer.
 6. Execute o programa com `yarn start`
 
 ## Demonstração
+
+Veja o arquivo [demo.mp4](./demo.mp4).
