@@ -6,7 +6,7 @@ As tecnologias utilizadas são TypeScript e Puppeteer.
 
 ## Disclaimer ⚠️
 
-Criei esse projeto inicialmente para ajudar um amigo. Não me responsabilizo pela execução do script em um cenário real. Decidi deixar o projeto público para fins didáticos de uma aplicação de _Web Scrapping_.
+Criei esse projeto inicialmente para ajudar um amigo. Não me responsabilizo pela execução do script em um cenário real. Decidi deixar o projeto público para fins didáticos de uma aplicação de _Web Scraping_.
 
 ## Como utilizar
 
