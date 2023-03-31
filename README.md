@@ -4,6 +4,10 @@ Esse bot foi criado com a intenção de inspecionar automaticamente uma obra que
 
 As tecnologias utilizadas são TypeScript e Puppeteer.
 
+## Disclaimer ⚠️
+
+Criei esse projeto inicialmente para ajudar um amigo. Não me responsabilizo pela execução do script em um cenário real. Decidi deixar o projeto público para fins didáticos de uma aplicação de _Web Scrapping_.
+
 ## Como utilizar
 
 1. Baixe esse repositório para seu computador para um diretório de sua escolha
